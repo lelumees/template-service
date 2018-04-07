@@ -1,0 +1,19 @@
+{
+  "name": "competely",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rasmuslelumees/competely.git",
+  "author": "Rasmus Lelumees <rasmus.lelumees@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-jwt": "^3.3.1",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.5",
+    "url": "^0.11.0"
+  }
+}
