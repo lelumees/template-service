@@ -1,8 +1,8 @@
 {
-  "name": "competely",
+  "name": "template-service",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:rasmuslelumees/competely.git",
+  "repository": "git@github.com:rasmuslelumees/template-service.git",
   "author": "Rasmus Lelumees <rasmus.lelumees@gmail.com>",
   "license": "MIT",
   "scripts": {
